@@ -6,6 +6,28 @@ GET https://mm-money-mingle.onrender.com/
 
 GET https://mm-money-mingle.onrender.com/feedback_details
 
+
+### ADD feedback
+
+POST https://mm-money-mingle.onrender.com/feedback_details/
+//Content-Type: application/json
+
+ {
+    "access": "No",
+    "age": "25-44",
+    "challenges": "qq",
+    "comments": "qq",
+    "complexity": "No",
+    "convertedCurrency": "Yes",
+    " exchangeRates": "No",
+    "fees": "No",
+    "gender": "m",
+    "limitations": "qq",
+    "options": "No",
+    "paymentOptions": "No",
+    "recommendation": "Neutral"
+  }
+
 ### GET all users
 
 GET https://mm-money-mingle.onrender.com/User_details
