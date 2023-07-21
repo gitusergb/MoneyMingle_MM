@@ -1,0 +1,44 @@
+{
+
+    "feedback_details":[
+        {
+                "access" : "No",
+                "age" : "25-44",
+                "challenges" : "qq",
+                "comments" : "qq",
+                "complexity" : "No",
+                "convertedCurrency" : "Yes",
+                "cust_id" : 1,
+               " exchangeRates" : "No",
+                "fees" : "No",
+                "gender" : "m",
+                "limitations" : "qq",
+                "options" : "No",
+                "paymentOptions" : "No",
+                "recommendation" : "Neutral"
+        }
+    ],
+
+   " User_details":[
+    {
+       " id":1,
+        "name":"abcd",
+        "card_details":[
+            {
+
+            }
+        ]
+
+
+    }
+   ],
+
+   "country_data":[
+    {
+        "flag":"https://flagcdn.com/w320/us.png",
+        "name":"India",
+        "currency":"INR"
+
+    }
+   ]
+}
