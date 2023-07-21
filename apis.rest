@@ -1,0 +1,28 @@
+### GET all recipes
+GET https://mm-money-mingle.onrender.com/
+
+
+### GET all feedback
+
+GET https://mm-money-mingle.onrender.com/feedback_details
+
+### GET all users
+
+GET https://mm-money-mingle.onrender.com/User_details
+
+### Register a new user
+POST https://mm-money-mingle.onrender.com/User_details
+Content-Type: application/json
+
+{
+       " id":1,
+        "name":"abcd",
+        "card_details":[
+            {
+
+            }
+        ]
+
+
+    }
+
