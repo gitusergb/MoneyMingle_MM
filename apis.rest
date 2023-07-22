@@ -31,11 +31,12 @@ Content-Type: application/json
     "recommendation": "Neutral"
   }
 
-### GET all users
+### GET all users-details
 
 GET https://mm-money-mingle.onrender.com/User_details
 
-### Register a new user
+
+### Register a new user-detail
 POST https://mm-money-mingle.onrender.com/User_details
 Content-Type: application/json
 
@@ -47,7 +48,13 @@ Content-Type: application/json
 
             }
         ]
-
-
     }
+
+
+
+### GET all user
+
+GET https://mm-money-mingle.onrender.com/User
+
+
 
