@@ -2,6 +2,9 @@
 GET https://mm-money-mingle.onrender.com/
 
 
+### GET country Info
+GET https://mm-money-mingle.onrender.com/country_data
+
 ### GET all feedback
 
 GET https://mm-money-mingle.onrender.com/feedback_details
