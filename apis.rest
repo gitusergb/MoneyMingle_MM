@@ -10,7 +10,7 @@ GET https://mm-money-mingle.onrender.com/feedback_details
 ### ADD feedback
 
 POST https://mm-money-mingle.onrender.com/feedback_details/
-//Content-Type: application/json
+Content-Type: application/json
 
  {
     "access": "No",
