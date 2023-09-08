@@ -2731,17 +2731,17 @@
   },
   {
     "id": 2,
-    "name": "tapish",
+    "name": "Gauri",
     "password": "1234",
     "comnformPassword": "1234",
-    "mail": "tapish@gmail.com",
-    "usrName": "tapish",
+    "mail": "Gauri@gmail.com",
+    "usrName": "Gauri",
     "balance": 1000,
     "transactions": [
       {
         "date": "01-01-2021",
         "type": "Payment from",
-        "name": "tapish Agrawal",
+        "name": "Gauri Bidwai",
         "gross": 250,
         "fee": 25,
         "net": 225,
@@ -2853,6 +2853,117 @@
         "date": "01-01-2021",
         "type": "Payment from",
         "name": "anurag Agrawal",
+        "gross": 250,
+        "fee": 25,
+        "net": 225,
+        "userCurrency": "INR",
+        "convertedCurrency": "USD"
+      },
+      {
+        "date": "02-01-2021",
+        "type": "Transfer to",
+        "name": "John Doe",
+        "gross": 100,
+        "fee": 10,
+        "net": 90,
+        "userCurrency": "USD",
+        "convertedCurrency": "EUR"
+      },
+      {
+        "date": "03-01-2021",
+        "type": "Payment from",
+        "name": "Alice Smith",
+        "gross": 500,
+        "fee": 50,
+        "net": 450,
+        "userCurrency": "AUD",
+        "convertedCurrency": "CAD"
+      },
+      {
+        "date": "04-01-2021",
+        "type": "Transfer to",
+        "name": "Bob Johnson",
+        "gross": 300,
+        "fee": 30,
+        "net": 270,
+        "userCurrency": "CAD",
+        "convertedCurrency": "EUR"
+      },
+      {
+        "date": "05-01-2021",
+        "type": "Payment from",
+        "name": "Sarah Lee",
+        "gross": 150,
+        "fee": 15,
+        "net": 135,
+        "userCurrency": "USD",
+        "convertedCurrency": "HKD"
+      },
+      {
+        "date": "06-01-2021",
+        "type": "Transfer to",
+        "name": "Emma Chen",
+        "gross": 200,
+        "fee": 20,
+        "net": 180,
+        "userCurrency": "EUR",
+        "convertedCurrency": "EGP"
+      },
+      {
+        "date": "07-01-2021",
+        "type": "Payment from",
+        "name": "James Brown",
+        "gross": 400,
+        "fee": 40,
+        "net": 360,
+        "userCurrency": "EGP",
+        "convertedCurrency": "NZD"
+      },
+      {
+        "date": "08-01-2021",
+        "type": "Transfer to",
+        "name": "Linda Wang",
+        "gross": 250,
+        "fee": 25,
+        "net": 225,
+        "userCurrency": "NZD",
+        "convertedCurrency": "PHP"
+      },
+      {
+        "date": "09-01-2021",
+        "type": "Payment from",
+        "name": "Michael Kim",
+        "gross": 180,
+        "fee": 18,
+        "net": 162,
+        "userCurrency": "INR",
+        "convertedCurrency": "CNY"
+      },
+      {
+        "date": "10-01-2021",
+        "type": "Transfer to",
+        "name": "Sophia Liu",
+        "gross": 300,
+        "fee": 30,
+        "net": 270,
+        "userCurrency": "CAD",
+        "convertedCurrency": "USD"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Renu",
+    "password": "7777",
+    "comnformPassword": "7777",
+    "mail": "Renu@gmail.com",
+    "usrName": "Renu",
+    "balance": 1000,
+    "transactions": [
+      {
+        "date": "01-01-2021",
+        "type": "Payment from",
+        "name": "Renu B",
         "gross": 250,
         "fee": 25,
         "net": 225,
